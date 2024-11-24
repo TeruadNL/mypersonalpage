@@ -1,11 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 768px){
-.a{
-width:100%
-flex-direction: column;
-}
-}
+
 *{
     @font-face {
         font-family: RoughSimple;
@@ -17,13 +12,13 @@ flex-direction: column;
 }
 
 body {
-   background-image: linear-gradient(to left, #093AAB, #093AAB);
+    background-image: linear-gradient(to left, #000A1F, #000A1F);
     text-align: center;
 }
 main {
-    background-color: #ADD8EC;
+    background-color: #CDCDCD;
     border-radius: 10px;
-    box-shadow: 5px 5px 20px #0d0014;
+    box-shadow: 5px 5px 20px #000000;
     width: 612px;
     padding: 10px;
     margin: auto
