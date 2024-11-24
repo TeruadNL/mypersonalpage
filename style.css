@@ -17,7 +17,7 @@ flex-direction: column;
 }
 
 body {
-   background-image: linear-gradient(to left, #093AAB, #000A1F);
+   background-image: linear-gradient(to left, #093AAB, #093AAB);
     text-align: center;
 }
 main {
