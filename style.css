@@ -47,3 +47,21 @@ h4{
     text-shadow: 1px 1px 2px rgba(129, 77, 5, 0.726);
     font-size: 2em;
 }
+a{
+    color: #CA00DB;
+    text-decoration: none;
+}
+a:visited{
+    color: #CA00DB
+}
+a:hover{
+    color: #680072;
+    text-decoration: underline;
+}
+.pic {
+    border-radius: 12%;
+    display: inline-block;
+    background-color: #a5a5a5;
+    border: 1px solid black;
+    text-align: center;
+}
